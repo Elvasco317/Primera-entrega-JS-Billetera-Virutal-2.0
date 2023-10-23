@@ -1,5 +1,6 @@
 alert("Bienvenido a Billetera Virtual 2.0");
 
+
 let operaciones = parseInt(
     prompt(
         "Seleccione la operacion a realizar: \n 1- Consultar Saldo\n 2- Datos de mi cuenta \n 3- Depositos\n 4- Extracciones\n 5- Simulador Prestamos \n 6- Salir "
